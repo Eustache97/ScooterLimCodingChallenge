@@ -1,0 +1,92 @@
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+#divheader{
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
+
+#imglogo{
+  width: 250px;
+  height: 110px;
+}
+
+#scrittaprincipale{
+  color: #00ff00;
+  font-family: 'Comfortaa', cursive;
+  font-size: 27px;
+}
+
+
+#divheader,#navdiv{
+  text-align:center;
+  margin: auto;
+}
+
+#container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 900px;
+  margin: auto;
+  color: #ffffff;
+  border-radius: 15px;
+}
+
+#navdiv{
+  background-color: #00ff00;
+  width: 700px;
+  height: 40px;
+}
+
+div>button{
+  margin-top: 10px;
+}
+
+#quasiscarico{
+  background-color: #f4a460;
+  color: #ffffff00;
+  width: 250px;
+}
+
+#carico{
+  background-color: #00ff00;
+  color: #ffffff00;
+  width: 400px;
+}
+
+#scarico{
+  background-color: #cd5c5c;
+  color: #ffffff00;
+  width: 100px;
+}
+
+#divmain{
+  padding-left: 100px;
+  padding-bottom: 70px;
+}
+
+section{
+  padding-top: 15px;
+}
+
+.monopattino{
+  font-family: 'Comfortaa', cursive;
+  font-size: 17px;
+}
+
+.infomonopattino{
+  font-family: 'Comfortaa', cursive;
+  font-size: 10px;
+}
+
+#navdiv,section>div{
+  border-radius: 5px;
+}
+
+footer>div{
+  font-family: 'Comfortaa', cursive;;
+  font-size: 7px;
+  padding-left: 100px;
+}
